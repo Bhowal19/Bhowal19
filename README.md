@@ -1,16 +1,11 @@
-### Hello all , I Am Ayan Bhowal👋
-
-- 🔭 I’m currently working on cloning websites 
-- 🌱 I’m currently learning Front-end Web Development
-- 🤔 I’m looking for help with Web development and back-end Development
-- 💬 Ask me about life
-- 📫 How to reach me: Linkedin and Twitter
-- ⚡ Fun fact: I have a few pick-up lines if you need one , Hmu
 
 
-# Hey there, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi+!+its+Varun+Bhattacharya;I+am+a+Machine+Learning+Engineer+.+.+.;a+Data+Science+Enthusiast+.+.+.;a+Tech+Blogger.+.+.;and+an+aspiring+Software+Engineer+.+.+.+."/>
+
+
+### Hello all , I Am Ayan Bhowal👋 and welcome to my Github Profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hello+!+Bhowal+here;I+am+a+Front-end +End+Engineer+.+.+.;a+Data+Science+Enthusiast+.+.+.;a+Tech+Blogger.+.+.;and+an+aspiring+Software+Engineer+.+.+.+."/>
  
  <p>- <i>I am a hardworking, ambitious, patient person who likes working in teams and performing well under pressure. I am good at communication and adaptable to situations. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never give up and optimistic attitude.
 
@@ -23,13 +18,15 @@
 
 </br>
 
-<!--- 🔧 I’m currently working on with Samsung R&D Institute India, Bangalore and TE Connectivity, Bangalore.-->
-- 💡 I’m curious about ...Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
-- 📖 I’m currently improving myself in these fields.
-- ❄️ I’m looking to collaborate on Open Source Projects.
-- 📝 Some of my technical blogs can be found in [here](https://www.codespeedy.com/author/varunbhattacharya/).
-<!--- 📫 You can reach me in varunb.working@gmail.com.-->
-- 📃 Please find my [resume](https://drive.google.com/file/d/1gh6BQRzQIydKXSkJfrMwRIKDyrGfX14w/view?usp=share_link) and reach out to me for opportunities.
+- 🔭 I’m currently working on cloning websites 
+- 🌱 I’m currently learning Front-end Web Development
+- 🤔 I’m looking for help with Web development and back-end Development
+- 💬 Ask me about life
+- 📫 How to reach me: Linkedin and Twitter
+- ⚡ Fun fact: I have a few pick-up lines if you need one , Hmu
+- 📝 Some of my technical blogs can be found in [here](---).
+
+- 📃 Please find my [resume](---) and reach out to me for opportunities.
 
 </br>
 
