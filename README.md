@@ -1,7 +1,6 @@
 ### Hello all 👋 and welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi+!+It's+Ayan+Bhowal;I+am+a+Front+end+Engineer+.+.+.;a+Python+Enthusiast+.+.+.;a+Blogger.+.+.;and+an+aspiring+Software+Engineer+.+.+.+."/>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;A+Front-End+Engineer;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Software+Engineer" alt="Typing SVG" /></a>
  <p>- <i>I am a hardworking, ambitious, patient person who likes working in teams and performing well under pressure. I am good at communication and adaptable to situations. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never give up and optimistic attitude.
 
 </i></p>
