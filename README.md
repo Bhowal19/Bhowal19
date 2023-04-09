@@ -2,9 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;A+Front-End+Engineer;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Software+Engineer" alt="Typing SVG" /></a>
  <p>- <i>I am a hardworking, ambitious, patient person who likes working in teams and performing well under pressure. I am good at communication and adaptable to situations. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never give up and optimistic attitude.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </i></p>
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" align="right" />
+<!-- <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" align="right" /> -->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 ## 🙋‍♂️ About Me
 </br>
 
@@ -21,7 +23,9 @@
 <tr>
 <td width="50%">
      
-## 🛠️ Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+ 
 
 #### Languages
 
