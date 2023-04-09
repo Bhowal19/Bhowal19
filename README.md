@@ -22,9 +22,11 @@
 
 <tr>
 <td width="50%">
-     
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhowal19&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
  
 
 #### Languages
@@ -42,9 +44,11 @@
 ![Designing](https://img.shields.io/badge/Designing-05122A?style=flat&logo=Designing&logoColor=white) ![Image Editing](https://img.shields.io/badge/Image%20Editing-05122A?style=flat&logo=Image%20Editing&logoColor=white) ![Video Editing](https://img.shields.io/badge/Video%20Editing-05122A?style=flat&logo=Video%20Editing&logoColor=white)&nbsp;
 
 <p align = "center">
+ 
 <img width = "100%" src = "https://metrics.lecoq.io/bhowal19">
 </p>
      
+ 
 </td>
     <td>
   
@@ -60,6 +64,8 @@
   <br>
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhowal19&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" height = 250 />
 </p>
+
+
      
   </td>
  </tr>
@@ -77,10 +83,14 @@
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AyanBhowal}/count.svg" /></p> 
 <br>
-</div>
+ 
  
 
- 
+
+
+
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## &nbsp; &nbsp; 📬 &nbsp; Connnect with Me
