@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about life
 - 📫 How to reach me:[ Linkedin](https://www.linkedin.com/in/ayan-bhowal-617518214/) and [Twitter](https://twitter.com/AyanBhowal8)
-- ⚡ Fun fact: I have a few pick-up lines if you need one.
+- ⚡ Fun fact: I have a few pick-up lines if you need one - [Portfolio](https://bhowals-portfolio.netlify.app/)
 - 📝 Some of my blogs can be found in [here](https://bhowal19.github.io/TheBasedWriter.github.io/).
 - 📃 Please find my [resume](https://drive.google.com/file/d/1FNKEBEDhBH-VLrLlSxr7o57vAvOZE68M/view?usp=share_link) and reach out to me for opportunities.
 
@@ -23,7 +23,7 @@
 <tr>
 <td width="50%">
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhowal19&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhowal19&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
