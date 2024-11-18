@@ -1,6 +1,6 @@
 ### Hello all 👋 and welcome to my [Github Profile](https://github.com/Bhowal19)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;A+Front-End+Engineer;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Security+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Security+Engineer" alt="Typing SVG" /></a>
  <p>- <i>I thrive on converting challenges into growth opportunities, fostering collaboration, and staying adaptable to evolving technologies and trends, my strong computer science background drives my passion for Cybersecurity. I hold certifications from Google and Microsoft, equipping me to protect vital assets and ensure information confidentiality.
 I'm eager to apply my cybersecurity acumen to counter emerging threats and contribute to a more secure digital landscape. Let's connect to pursue shared success. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never-give-up and optimistic attitude.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
