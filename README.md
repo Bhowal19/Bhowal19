@@ -1,7 +1,8 @@
 ### Hello all 👋 and welcome to my [Github Profile](https://github.com/Bhowal19)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;A+Front-End+Engineer;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Software+Engineer" alt="Typing SVG" /></a>
- <p>- <i>I am a hardworking, ambitious, patient person who likes working in teams and performing well under pressure. I am good at communication and adaptable to situations. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never give up and optimistic attitude.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;A+Front-End+Engineer;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Security+Engineer" alt="Typing SVG" /></a>
+ <p>- <i>I thrive on converting challenges into growth opportunities, fostering collaboration, and staying adaptable to evolving technologies and trends, my strong computer science background drives my passion for Cybersecurity. I hold certifications from Google and Microsoft, equipping me to protect vital assets and ensure information confidentiality.
+I'm eager to apply my cybersecurity acumen to counter emerging threats and contribute to a more secure digital landscape. Let's connect to pursue shared success. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never-give-up and optimistic attitude.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </i></p>
 <!-- <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" align="right" /> -->
@@ -10,13 +11,15 @@
 ## 🙋‍♂️ About Me
 </br>
 
-- 🔭 I’m currently working on designing websites 
-- 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me about life
-- 📫 How to reach me:[ Linkedin](https://www.linkedin.com/in/ayan-bhowal-617518214/) and [Twitter](https://twitter.com/AyanBhowal8)
-- ⚡ Fun fact: I have a few pick-up lines if you need one - [Portfolio](https://bhowals-portfolio.netlify.app/)
-- 📝 Some of my blogs can be found in [here](https://bhowal19.github.io/TheBasedWriter.github.io/).
-- 📃 Please find my [resume](https://drive.google.com/file/d/1FNKEBEDhBH-VLrLlSxr7o57vAvOZE68M/view?usp=share_link) and reach out to me for opportunities.
+
+- 🔒 I’m a SOC Analyst at Harman
+- 🛡️ Currently focusing on Vulnerability Assessment and Penetration Testing (VAPT)
+- 🎨 I’m also a UI/UX designer  
+- 📂 You can find my design work on [Behance](https://www.behance.net/ayanbhowal)
+- 💬 Ask me about cybersecurity, design, or anything tech!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-bhowal-617518214/) and [Twitter](https://twitter.com/AyanBhowal8)
+- 📝 Check out some of my blogs on [Medium](https://medium.com/@BhowalWarden)
+- 📃 You can view my [resume](https://drive.google.com/file/d/1FNKEBEDhBH-VLrLlSxr7o57vAvOZE68M/view?usp=share_link) and connect for opportunities!
 
 <table width="100%" >
 
