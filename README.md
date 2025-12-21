@@ -1,108 +1,161 @@
-### Hello all 👋 and welcome to my [Github Profile](https://github.com/Bhowal19)
+### Hello 👋 and welcome to my [GitHub Security Portfolio](https://github.com/Bhowal19)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAFF28&width=438&height=53&lines=I+am+Ayan+Bhowal;UI%2FUX+Designer;Web+and+Graphic+Designer;Motion+Graphics+Artist;And+An+Emerging+Security+Engineer" alt="Typing SVG" /></a>
- <p>- <i>I thrive on converting challenges into growth opportunities, fostering collaboration, and staying adaptable to evolving technologies and trends, my strong computer science background drives my passion for Cybersecurity. I hold certifications from Google and Microsoft, equipping me to protect vital assets and ensure information confidentiality.
-I'm eager to apply my cybersecurity acumen to counter emerging threats and contribute to a more secure digital landscape. Let's connect to pursue shared success. I manage my work as well as my teammates in a very organized manner and look forward to challenges with my never-give-up and optimistic attitude.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</i></p>
-<!-- <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" align="right" /> -->
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&width=650&height=55&lines=I+am+Ayan+Bhowal;Security+Analyst+%7C+Security+Engineer;Cloud+Security+%7C+Product+Security;Vulnerability+Management+%7C+Threat+Modeling;Building+Secure+Systems+by+Design" alt="Typing SVG" />
+</a>
 
-## 🙋‍♂️ About Me
-</br>
+<p>
+<i>
+Security-focused professional with a strong computer science background and hands-on experience across SOC operations, cloud security, vulnerability management, and product security.  
+This GitHub serves as my **central cybersecurity knowledge base**, containing security research, real-world case studies, threat models, notes, experiments, and practical implementations.
 
-
-- 🔒 I’m a SOC Analyst at Harman
-- 🛡️ Currently focusing on Vulnerability Assessment and Penetration Testing (VAPT)
-- 🎨 I’m also a UI/UX designer  
-- 📂 You can find my design work on [Behance](https://www.behance.net/ayanbhowal)
-- 💬 Ask me about cybersecurity, design, or anything tech!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-bhowal-617518214/) and [Twitter](https://twitter.com/AyanBhowal8)
-- 📝 Check out some of my blogs on [Medium](https://medium.com/@BhowalWarden)
-- 📃 You can view my [resume](https://drive.google.com/file/d/1FNKEBEDhBH-VLrLlSxr7o57vAvOZE68M/view?usp=share_link) and connect for opportunities!
-
-<table width="100%" >
-
-<tr>
-<td width="50%">
- 
-<!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhowal19&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
- 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
- 
-
-#### Languages
-
- ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)  ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-
-
-
-#### Technologies
-
-![Databases](https://img.shields.io/badge/Databases-05122A?style=flat&logo=Databases&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
-![Designing](https://img.shields.io/badge/Designing-05122A?style=flat&logo=Designing&logoColor=white) ![Image Editing](https://img.shields.io/badge/Image%20Editing-05122A?style=flat&logo=Image%20Editing&logoColor=white) ![Video Editing](https://img.shields.io/badge/Video%20Editing-05122A?style=flat&logo=Video%20Editing&logoColor=white)&nbsp;
-
-<p align = "center">
- 
-<img width = "100%" src = "https://metrics.lecoq.io/bhowal19">
+My approach to security is rooted in **risk-based decision making, secure-by-design principles, and continuous learning**, with a focus on defending modern cloud-native and product environments against evolving threats.
+</i>
 </p>
-     
- 
-</td>
-    <td>
-  
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<picture>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="260px">
+</picture>
+
+---
+
+## 🛡️ About Me
+
+- 🔐 SOC Analyst at **Harman**
+- ☁️ Focused on **Cloud Security, Product Security & Vulnerability Management**
+- 🧠 Strong interest in **Threat Modeling, Secure SDLC & Security Architecture**
+- 🛠️ Experience across detection, investigation, and security tooling
+- 📝 Actively documenting **security research, case studies, and learning notes**
+- 🎨 Background in UI/UX — applying **secure-by-design thinking** to products
+- ✍️ Writing about cybersecurity on [Medium](https://medium.com/@BhowalWarden)
+
+📫 **Reach me:**  
+[LinkedIn](https://www.linkedin.com/in/ayan-bhowal-617518214/) • [Twitter](https://twitter.com/AyanBhowal8) • [Resume](https://drive.google.com/file/d/1FNKEBEDhBH-VLrLlSxr7o57vAvOZE68M/view)
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Security Skills & Expertise
+
+### 🛠️ Security Tools, Platforms & Hands-On Experience
+
+#### ☁️ Cloud & Platform Security
+![Azure](https://img.shields.io/badge/Azure%20Security-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-00BFFF?style=flat)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-2F2F2F?style=flat)
+
+- Securing cloud workloads, identities, and resources using **Microsoft Azure Security** best practices  
+- Hands-on experience with **Microsoft Sentinel (SIEM/SOAR)** for log ingestion, alert triage, incident investigation, and KQL-based threat hunting  
+- Endpoint and cloud threat detection using **Microsoft Defender**, including alert analysis and response  
+
+---
+
+#### 📊 Detection, Monitoring & Threat Intelligence
+![SIEM](https://img.shields.io/badge/SIEM-05122A?style=flat)
+![EDR](https://img.shields.io/badge/EDR-05122A?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=flat&logo=google&logoColor=white)
+
+- Security monitoring and investigations using **Splunk** and **Google Chronicle**  
+- Event correlation, IOC analysis, and threat investigation workflows  
+- Threat intelligence correlation and contextual risk analysis using **ThreatWorx**  
+
+---
+
+#### 🔍 Vulnerability Management & VAPT
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logo=tenable&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-05122A?style=flat)
+
+- Conducting **Vulnerability Assessment & Penetration Testing (VAPT)** across applications and infrastructure  
+- Vulnerability scanning using **Nessus**, including prioritization, remediation validation, and reporting  
+- Strong understanding of **CVEs, CVSS scoring, attack surfaces, and remediation strategies**  
+
+---
+
+#### 🧪 Offensive Security & Penetration Testing
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+- Practical penetration testing using **Kali Linux** and industry-standard offensive tools  
+- Testing web applications, APIs, and cloud-exposed services from an attacker’s perspective  
+
+---
+
+### 💻 Languages, Scripting & Security Automation
+
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=mysql)
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+
+- **Python** – Security automation, scripting, and log analysis  
+- **SQL** – Querying and analyzing structured security data  
+- **Bash** – Linux automation and security tooling support  
+- **JavaScript** – Understanding client-side security risks in web and product environments  
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhowal19&theme=algolia&show_icons=true" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhowal19&theme=algolia"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowal19&theme=algolia&layout=compact" />
-  <br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhowal19&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" height = 250 />
+<img width="100%" src="https://metrics.lecoq.io/bhowal19">
 </p>
 
+</td>
 
-     
-  </td>
- </tr>
+<td>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> GitHub Stats
+
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhowal19&theme=algolia&show_icons=true" />
+<br>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhowal19&theme=algolia" />
+<br>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowal19&theme=algolia&layout=compact" />
+<br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhowal19&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+</td>
+
+</tr>
 </table>
 
+---
 
+## 📂 What You’ll Find in This GitHub
 
+- 🔍 Security research & real-world **case studies**
+- 🧠 Structured **security notes** (cloud, product, application security)
+- 🧪 Hands-on labs, detections, and experiments
+- 🧱 Threat models & attack surface analysis
+- 📘 Learning repositories documenting my cybersecurity journey
 
+This GitHub is a **living security portfolio**, evolving alongside my growth as a security engineer.
 
-
-
+---
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
+<b>Visitors Count</b>
+<p><img src="https://profile-counter.glitch.me/{AyanBhowal}/count.svg" /></p>
+</div>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AyanBhowal}/count.svg" /></p> 
-<br>
- 
- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
+## 📬 Connect With Me
 
-
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-## &nbsp; &nbsp; 📬 &nbsp; Connnect with Me
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ayan-bhowal-617518214/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;
-<a href="mailto:bhowal.ayan19@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://github.com/Bhowal19"><img width="100px" alt = "Github" src = "https://img.shields.io/badge/Github-7289DA?style=flat&logo=github&logoColor=white"/></a>
-
-</br>
-</br>
+<a href="https://www.linkedin.com/in/ayan-bhowal-617518214/">
+<img width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:bhowal.ayan19@gmail.com">
+<img width="90px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Bhowal19">
+<img width="100px" src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+</a>
