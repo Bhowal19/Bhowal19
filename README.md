@@ -18,8 +18,8 @@ My approach to security is rooted in **risk-based decision making, secure-by-des
 
 ## 🛡️ About Me
 
-- 🔐 SOC Analyst at **Harman**
-- ☁️ Focused on **Cloud Security, Product Security & Vulnerability Management**
+- 🔐 SOC Analyst at **WIPRO**
+- ☁️ Focused on **Cloud Security, Product Security & Cyber Threat Intelligence**
 - 🧠 Strong interest in **Threat Modeling, Secure SDLC & Security Architecture**
 - 🛠️ Experience across detection, investigation, and security tooling
 - 📝 Actively documenting **security research, case studies, and learning notes**
